@@ -1,0 +1,1 @@
+browserify src/system.js > dist/chip8.js

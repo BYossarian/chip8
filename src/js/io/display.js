@@ -1,5 +1,5 @@
 
-var PIXEL_COLOUR = 'rgb(0, 100, 120)';
+var PIXEL_COLOUR = 'rgb(63, 188, 236)';
 var CANVAS_SCALE = 10; // 10 'modern' pixels to 1 chip 8 pixel
 
 var canvas = document.getElementById('screen');

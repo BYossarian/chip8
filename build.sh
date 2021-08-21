@@ -1,1 +1,1 @@
-browserify src/js/system.js > dist/chip8.js
+browserify src/system.js > dist/chip8.js
